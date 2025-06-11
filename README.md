@@ -1,12 +1,12 @@
 <h1 align="Left">💫 About Me:</h1>
 <h2 align="center" style="font-family: 'Times New Roman', serif; color: #4B0082; font-size: 28px;">
-  👋 Hi there, I'm <strong>Ethan Ng'ang'a, Here....</strong> 
+  👋 Greatings,<strong>Ethan Ng'ang'a, Here....</strong> 
 </h2>
 <h3 align="center" style="font-family: 'Times New Roman', serif; color: #2E8B57; font-size: 22px; font-style: italic;">
   A passionate tech creator from Nairobi, Kenya 🇰🇪 who turns ideas into interactive magic ✨,building the future one line of code at a time!
 </h3>
 
-- 🌱 I’m currently learning **Comp Sci at Strathmore**
+- 🌱 I’m currently learning **Comp Sci at Strathmore University**
 - 🚀 Full-Stack Developer | Tech Enthusiast | Techpreneur  
   💬 Ask me about Full Stack Development and its Advantages
 - 📫 How to reach me **ethannganga8@gmail.com**
