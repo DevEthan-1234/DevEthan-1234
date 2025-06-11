@@ -1,3 +1,4 @@
+💫 About Me:
 <h1 align="center">Hi 👋, I'm Ethan Ng'ang'a</h1>
 <h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
 
