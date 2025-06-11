@@ -1,6 +1,10 @@
-💫 About Me:
-<h1 align="center">Hi 👋, I'm Ethan Ng'ang'a</h1>
-<h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
+<h1 align="center">💫 About Me:</h1>
+<h2 align="center" style="font-family: 'Times New Roman', serif; color: #4B0082; font-size: 28px;">
+  👋 Hi there, I'm <strong>Ethan Ng'ang'a</strong> — a passionate tech creator building the future one line of code at a time!
+</h2>
+<h3 align="center" style="font-family: 'Times New Roman', serif; color: #2E8B57; font-size: 22px; font-style: italic;">
+  A passionate frontend developer from Nairobi, Kenya 🇰🇪 who turns ideas into interactive magic ✨
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devethan-1234&label=Profile%20views&color=0e75b6&style=flat" alt="devethan-1234" /> </p>
 
