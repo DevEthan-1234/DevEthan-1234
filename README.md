@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="Left">💫 About Me:</h1>
 <h2 align="center" style="font-family: 'Times New Roman', serif; color: #4B0082; font-size: 28px;">
   👋 Hi there, I'm <strong>Ethan Ng'ang'a</strong> — a passionate tech creator building the future one line of code at a time!
 </h2>
