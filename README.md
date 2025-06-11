@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Comp Sci at Strathmore**
 
-- 💬 Ask me about **Full Stack Development**
+- 🚀 Full-Stack Developer | Tech Enthusiast | Techpreneur
+
+  💬 Ask me about Full Stack Development and its Advantages
 
 - 📫 How to reach me **ethannganga8@gmail.com**
 
